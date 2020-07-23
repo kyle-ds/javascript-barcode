@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.41.3"
+    "webpack": "^4.41.3",
+    "webpack-cli": "^3.3.11"
   },
   "dependencies": {
     "dynamsoft-javascript-barcode": "7.3.0-v2"
